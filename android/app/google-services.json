@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675972451146",
+    "firebase_url": "https://rapidlearn-4d2ff.firebaseio.com",
+    "project_id": "rapidlearn-4d2ff",
+    "storage_bucket": "rapidlearn-4d2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675972451146:android:013d36204785f5013ccfb3",
+        "android_client_info": {
+          "package_name": "com.example.rlearn5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675972451146-hv1gfsgceo8tmducvml9dbd208i8brbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rlearn5",
+            "certificate_hash": "b094360bab2053325a361b3208bce1a76b3a0162"
+          }
+        },
+        {
+          "client_id": "675972451146-8s94hlgk4cb8jinibrf1ss8pfl7bfmku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ejZh1SOTaEBpHoEmUm1WH0PKA1lfjD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675972451146-8s94hlgk4cb8jinibrf1ss8pfl7bfmku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
